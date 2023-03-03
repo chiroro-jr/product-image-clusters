@@ -1,0 +1,1157 @@
+[
+    {
+        "product_url": "https://www.okonline.co.zw/?product=black-sheeting-per-metre",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Black-sheeting.png",
+        "description": "black sheeting per metre black sheeting per metre",
+        "filenames": "/root/.keras/datasets/Black-sheeting.png",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=sunbeam-2-3l-cordless-kettle-white",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/SUNBEAM-2.3L-CORDLESS-KETTLE-WHITE-500x500.jpg",
+        "description": "sunbeam 2.3l cordless kettle white sunbeam 2.3l cordless kettle white",
+        "filenames": "/root/.keras/datasets/SUNBEAM-2.3L-CORDLESS-KETTLE-WHITE-500x500.jpg",
+        "cluster": 13
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=eversharp-15m-black",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Eversharp-15m-black-230x500.jpg",
+        "description": "eversharp 15m black eversharp 15m black",
+        "filenames": "/root/.keras/datasets/Eversharp-15m-black-230x500.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=capri-chest-freezer-c270",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/C-270.jpg",
+        "description": "capri chest freezer c270 metallic capri chest freezer c270 metallic",
+        "filenames": "/root/.keras/datasets/C-270.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=raleigh-mirage-2-0-mtb-26-21-speed",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/silo-MIN_357328_EAA_large.jpg",
+        "description": "raleigh mirage 2.0 mtb 26\u2033 21 speed raleigh mirage 2.0 mtb 26\u2033 21 speed",
+        "filenames": "/root/.keras/datasets/silo-MIN_357328_EAA_large.jpg",
+        "cluster": 0
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=jungle-oats-500g-2",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/jungle-oats-500g.jpg",
+        "description": "jungle oats 500g jungle oats 500g",
+        "filenames": "/root/.keras/datasets/jungle-oats-500g.jpg",
+        "cluster": 9
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=black-rose-nappies-7070cm",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000089531-10.jpg",
+        "description": "nappies 70*70cm nappies 70*70cm",
+        "filenames": "/root/.keras/datasets/9000089531-10.jpg",
+        "cluster": 10
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=screwdriver-set-3pc-mechanical-blk-tip",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000070972-13.jpg",
+        "description": "screwdriver set 3pc mechanical blk tip screwdriver set 3pc mechanical blk tip",
+        "filenames": "/root/.keras/datasets/9000070972-13.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=delite-cooking-oil-2l",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/DELITE-2L.jpg",
+        "description": "delite cooking oil 2l delite cooking oil 2l",
+        "filenames": "/root/.keras/datasets/DELITE-2L.jpg",
+        "cluster": 12
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=0-4mm-x-3-6mm-fluted-ibr-galv-sheet",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/GALV-SHEET.jpg",
+        "description": "0.4mm x 3.6mm fluted (ibr) galv sheet 0.4mm x 3.6mm fluted (ibr) galv sheet",
+        "filenames": "/root/.keras/datasets/GALV-SHEET.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=capri-freezer-metallic-270l",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Capri-Freezer-Metallic-270L-500x440.jpg",
+        "description": "capri chest freezer metallic ccf270l capri chest freezer metallic ccf270l",
+        "filenames": "/root/.keras/datasets/Capri-Freezer-Metallic-270L-500x440.jpg",
+        "cluster": 10
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=gloria-self-raising-flour-2kgx10",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/gloria-case-500x500.jpg",
+        "description": "gloria self raising flour 2kgx10 gloria self raising flour 2kgx10",
+        "filenames": "/root/.keras/datasets/gloria-case-500x500.jpg",
+        "cluster": 12
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=ox-kidney-per-kg",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Ox-Kidney-500x500.jpg",
+        "description": "ox kidney per kg ox kidney per kg",
+        "filenames": "/root/.keras/datasets/Ox-Kidney-500x500.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=5lt-stainless-steel-pedal-bin",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000098171-14.jpg",
+        "description": "5lt stainless steel pedal bin 5lt stainless steel pedal bin",
+        "filenames": "/root/.keras/datasets/9000098171-14.jpg",
+        "cluster": 10
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=roofing-nails-110mm-x-4-5mm",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/ROOFING-NAILS-100-X-4.5.jpg",
+        "description": "roofing nails 110mm x 4.5mm roofing nails 110mm x 4.5mm",
+        "filenames": "/root/.keras/datasets/ROOFING-NAILS-100-X-4.5.jpg",
+        "cluster": 5
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=12-inch-vanilla-cake",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/12-INCH-VANILLA-CAKE.jpg",
+        "description": "12 inch vanilla cake 12 inch vanilla cake",
+        "filenames": "/root/.keras/datasets/12-INCH-VANILLA-CAKE.jpg",
+        "cluster": 6
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=merit-exercise-book-a4-gr3-7-maths",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/6-500x500.jpg",
+        "description": "merit exercise book a4 gr3-7 maths merit exercise book a4 gr3-7 maths",
+        "filenames": "/root/.keras/datasets/6-500x500.jpg",
+        "cluster": 9
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=merit-exercise-book-a5-fm-qm",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/MERIT-EXERCISE-BOOK-A5-FM.jpg",
+        "description": "merit exercise book a5 fm merit exercise book a5 fm",
+        "filenames": "/root/.keras/datasets/MERIT-EXERCISE-BOOK-A5-FM.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=addis-8072bl-800ml-sports-bottle-pop-up-cap",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/14.jpg",
+        "description": "addis 8072bl 800ml sports bottle pop up cap addis 8072bl 800ml sports bottle pop up cap",
+        "filenames": "/root/.keras/datasets/14.jpg",
+        "cluster": 4
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=kaspersky-internet-security",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/kasperswky-internet-security-429x500.jpg",
+        "description": "kaspersky internet security kaspersky internet security",
+        "filenames": "/root/.keras/datasets/kasperswky-internet-security-429x500.jpg",
+        "cluster": 9
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=12-inch-ganache-cake",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/12-INCH-GANACHE-CAKE-500x500.jpg",
+        "description": "12 inch ganache cake 12 inch ganache cake",
+        "filenames": "/root/.keras/datasets/12-INCH-GANACHE-CAKE-500x500.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=raleigh-gizmo-12-bmx",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/GIZMO-500x500.jpg",
+        "description": "raleigh gizmo 12\u2033 bmx raleigh gizmo 12\u2033 bmx",
+        "filenames": "/root/.keras/datasets/GIZMO-500x500.jpg",
+        "cluster": 7
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=capri-pastel-red-c350-water-dispenser-fridge",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/C350-04-500x500.jpg",
+        "description": "capri pastel red c350 water dispenser fridge capri pastel red c350 water dispenser fridge",
+        "filenames": "/root/.keras/datasets/C350-04-500x500.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=capri-t-freezer-290l-hair-line-black",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Capri-Top-Freezer-290l-reszied.jpg",
+        "description": "capri t/freezer 290l (assorted colours) capri t/freezer 290l (assorted colours)",
+        "filenames": "/root/.keras/datasets/Capri-Top-Freezer-290l-reszied.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=methylated-spirit-750ml",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/methylated-spirit-750-ml.jpg",
+        "description": "methylated spirit 750ml methylated spirit 750ml",
+        "filenames": "/root/.keras/datasets/methylated-spirit-750-ml.jpg",
+        "cluster": 13
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=roofing-nail-75mm-4-5mm",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/ROOFING-NAIL-75MM-X-4.5MM.jpg",
+        "description": "roofing nail 75mm 4.5mm roofing nail 75mm 4.5mm",
+        "filenames": "/root/.keras/datasets/ROOFING-NAIL-75MM-X-4.5MM.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=6399-shoe-brush-plastic-white",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/19-500x500.jpg",
+        "description": "6399 shoe brush plastic white 6399 shoe brush plastic white",
+        "filenames": "/root/.keras/datasets/19-500x500.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=ox-liver-per-kg",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/raw-beef-liver-meat-500x500.jpg",
+        "description": "ox liver per kg ox liver per kg",
+        "filenames": "/root/.keras/datasets/raw-beef-liver-meat-500x500.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=berkshire-gents-socks-plain-6-11",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000084663-10.jpg",
+        "description": "berkshire assorted design ankle socks berkshire assorted design ankle socks",
+        "filenames": "/root/.keras/datasets/9000084663-10.jpg",
+        "cluster": 5
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=aqua-lite-water-500mlx12",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/aquaclear-mineral-water-500mlx24.jpg",
+        "description": "aqua lite water 500mlx12 aqua lite water 500mlx12",
+        "filenames": "/root/.keras/datasets/aquaclear-mineral-water-500mlx24.jpg",
+        "cluster": 4
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=lg-nano-tv-65",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/lg-65-nano-500x500.jpg",
+        "description": "lg smart nano tv 65 lg smart nano tv 65",
+        "filenames": "/root/.keras/datasets/lg-65-nano-500x500.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=kian-72-pg-bond-exercise-book-writing",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/KIAN-72-PG-BOND-EXERCISE-BOOK-WRITING.jpg",
+        "description": "kian 72 pg bond exercise book writing kian 72 pg bond exercise book writing",
+        "filenames": "/root/.keras/datasets/KIAN-72-PG-BOND-EXERCISE-BOOK-WRITING.jpg",
+        "cluster": 9
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=raleigh-nexus-29-mtb",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/nexus-29-500x500.jpg",
+        "description": "raleigh nexus 29\u2033 mtb raleigh nexus 29\u2033 mtb",
+        "filenames": "/root/.keras/datasets/nexus-29-500x500.jpg",
+        "cluster": 0
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=bokomo-cornflakes-500g",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/bokomo-cornflakes-500g.jpg",
+        "description": "bokomo cornflakes 500g bokomo cornflakes 500g",
+        "filenames": "/root/.keras/datasets/bokomo-cornflakes-500g.jpg",
+        "cluster": 13
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=150lt-non-pressure-solar-geyser",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Geyser-Sloar.png",
+        "description": "150lt non pressure solar geyser 150lt non pressure solar geyser",
+        "filenames": "/root/.keras/datasets/Geyser-Sloar.png",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=totem-princess-16-bmx-girls",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/silo-MIN_374992_EAA_large-500x500.jpg",
+        "description": "totem princess 16\u2033 bmx girls totem princess 16\u2033 bmx girls",
+        "filenames": "/root/.keras/datasets/silo-MIN_374992_EAA_large-500x500.jpg",
+        "cluster": 7
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=6-pce-table-spoons-birria-223895",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000085869-13.jpg",
+        "description": "6 pce table spoons birria 223895 6 pce table spoons birria 223895",
+        "filenames": "/root/.keras/datasets/9000085869-13.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=budget-beef-per-kg",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Budget-Beef-500x485.png",
+        "description": "budget beef per kg budget beef per kg",
+        "filenames": "/root/.keras/datasets/Budget-Beef-500x485.png",
+        "cluster": 3
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=dark-dolphin-0-3mm-x-3-6mm-ibr-fluted",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/DARK-DOLPHINE-SHEETS.jpg",
+        "description": "dark dolphin 0.3mm x 3.6mm ibr (fluted) dark dolphin 0.3mm x 3.6mm ibr (fluted)",
+        "filenames": "/root/.keras/datasets/DARK-DOLPHINE-SHEETS.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=ae-20l-bucket",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/AE-20L-BUCKET.jpg",
+        "description": "ae 20l bucket ae 20l bucket",
+        "filenames": "/root/.keras/datasets/AE-20L-BUCKET.jpg",
+        "cluster": 2
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=8132032115-std-pbs-305-fan-d-frame",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/FAN-DOR-FRAME.jpg",
+        "description": "813*2032*115 std pbs + 305 fan d/frame 813*2032*115 std pbs + 305 fan d/frame",
+        "filenames": "/root/.keras/datasets/FAN-DOR-FRAME.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=kit-bags-x1-with-trolls",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000098522-14.jpg",
+        "description": "kit bags x1 with trolls kit bags x1 with trolls",
+        "filenames": "/root/.keras/datasets/9000098522-14.jpg",
+        "cluster": 5
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=420l-fridge-w-dispenser-stainless",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/390l-with-dispenser.jpg",
+        "description": "420l fridge-w/dispenser silver hairline 420l fridge-w/dispenser silver hairline",
+        "filenames": "/root/.keras/datasets/390l-with-dispenser.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=chicken-thighs-2kg-pack",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Chicken-Thighs.jpg",
+        "description": "chicken thighs 2kg pack chicken thighs 2kg pack",
+        "filenames": "/root/.keras/datasets/Chicken-Thighs.jpg",
+        "cluster": 12
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=8132032115-std-pbs-assembled-d-frame",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/ASSEMBLED-DOOR-FRAME.png",
+        "description": "813*2032*115 std pbs assembled d/frame 813*2032*115 std pbs assembled d/frame",
+        "filenames": "/root/.keras/datasets/ASSEMBLED-DOOR-FRAME.png",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=consol-lyon-red-wine-4-pack",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/CONSOL-LYON-RED-WINE-4-PACK-1-500x500.jpg",
+        "description": "consol lyon red wine 4 pack consol lyon red wine 4 pack",
+        "filenames": "/root/.keras/datasets/CONSOL-LYON-RED-WINE-4-PACK-1-500x500.jpg",
+        "cluster": 11
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=fat-free-beef-mince-2kg",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Fat-Free-Beef-Mince.jpg",
+        "description": "fat free beef mince 2kg fat free beef mince 2kg",
+        "filenames": "/root/.keras/datasets/Fat-Free-Beef-Mince.jpg",
+        "cluster": 6
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=bakers-inn-premium-bread",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/bakers-inn-bread.png",
+        "description": "baker\u2019s inn premium bread baker\u2019s inn premium bread",
+        "filenames": "/root/.keras/datasets/bakers-inn-bread.png",
+        "cluster": 9
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=8132032230-std-pbs-assembled-d-frame",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/ASSEMBLED-DOOR-FRAME-1.png",
+        "description": "813*2032*230 std pbs assembled d/frame 813*2032*230 std pbs assembled d/frame",
+        "filenames": "/root/.keras/datasets/ASSEMBLED-DOOR-FRAME-1.png",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=8132032115-std-stable-d-frame",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/STABLE-D-FRAME.jpg",
+        "description": "813*2032*115 std stable d/frame 813*2032*115 std stable d/frame",
+        "filenames": "/root/.keras/datasets/STABLE-D-FRAME.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=kian-2-quire-counterbook-bond",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/4-1.jpg",
+        "description": "kian  2 quire counter book kian  2 quire counter book",
+        "filenames": "/root/.keras/datasets/4-1.jpg",
+        "cluster": 9
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=cookmore-cooking-oil-2lx8",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/medium16340852195t0xT13412.png",
+        "description": "cookmore  cooking oil 2lx8 cookmore  cooking oil 2lx8",
+        "filenames": "/root/.keras/datasets/medium16340852195t0xT13412.png",
+        "cluster": 4
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=wheelbarrow-concrete",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/2-Wheel-Barrow-Concrete.jpg",
+        "description": "wheelbarrow concrete wheelbarrow concrete",
+        "filenames": "/root/.keras/datasets/2-Wheel-Barrow-Concrete.jpg",
+        "cluster": 7
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=jack-scissor-1ton",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000083725-13.jpg",
+        "description": "scissor jack 1ton scissor jack 1ton",
+        "filenames": "/root/.keras/datasets/9000083725-13.jpg",
+        "cluster": 12
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=capri-freezer-white-270l",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Capri-Freezer-White-320L-1-500x500.jpg",
+        "description": "capri  chest freezer  c270l capri  chest freezer  c270l",
+        "filenames": "/root/.keras/datasets/Capri-Freezer-White-320L-1-500x500.jpg",
+        "cluster": 10
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=jungle-oats-500g",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000069933-17.jpg",
+        "description": "jungle oats 500g jungle oats 500g",
+        "filenames": "/root/.keras/datasets/9000069933-17.jpg",
+        "cluster": 9
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=kian-1-quire-counterbook-bond",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/3.jpg",
+        "description": "kian 1 quire counterbook bond kian 1 quire counterbook bond",
+        "filenames": "/root/.keras/datasets/3.jpg",
+        "cluster": 9
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=colgate-herbal-toothpaste-50ml",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Colgate-dental-cream-50ml-500x500.png",
+        "description": "colgate herbal toothpaste 50ml colgate herbal toothpaste 50ml",
+        "filenames": "/root/.keras/datasets/Colgate-dental-cream-50ml-500x500.png",
+        "cluster": 9
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=maxxus-v-trainer",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/MAXXUS-V-TRAINER.jpg",
+        "description": "maxxus v-trainer maxxus v-trainer",
+        "filenames": "/root/.keras/datasets/MAXXUS-V-TRAINER.jpg",
+        "cluster": 5
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=apc-surge-5way-15amp-p5b-sa",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000043034-15.jpg",
+        "description": "apc surge 5way 15amp p5b-sa apc surge 5way 15amp p5b-sa",
+        "filenames": "/root/.keras/datasets/9000043034-15.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=390l-fridge-metallic",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Untitled-1-02-1-500x500.jpg",
+        "description": "390l fridge-w/dispenser metallic 390l fridge-w/dispenser metallic",
+        "filenames": "/root/.keras/datasets/Untitled-1-02-1-500x500.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=dunlop-sx-27-g2-tennis-raquet",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/dunlop-sx-27-racchetta-da-tennis-per-ragazzi-10312857_B-500x500.jpg",
+        "description": "dunlop sx 27 g2 tennis raquet dunlop sx 27 g2 tennis raquet",
+        "filenames": "/root/.keras/datasets/dunlop-sx-27-racchetta-da-tennis-per-ragazzi-10312857_B-500x500.jpg",
+        "cluster": 11
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=irvines-eggs-mixed-sizes-shrinkwrapped-2-5doz",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Mixed-Sizes.png",
+        "description": "irvine\u2019s eggs mixed-sizes shrinkwrapped 2.5doz irvine\u2019s eggs mixed-sizes shrinkwrapped 2.5doz",
+        "filenames": "/root/.keras/datasets/Mixed-Sizes.png",
+        "cluster": 12
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=dunlop-sonic-ti-squash-racquet",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/SONIC-TI-5.0_FRONT-1-800x880-1-500x500.jpg",
+        "description": "dunlop sonic ti squash racquet dunlop sonic ti squash racquet",
+        "filenames": "/root/.keras/datasets/SONIC-TI-5.0_FRONT-1-800x880-1-500x500.jpg",
+        "cluster": 11
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=chicken-wings-2kg-pack",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Chicken-Wings.jpg",
+        "description": "chicken wings 2kg pack chicken wings 2kg pack",
+        "filenames": "/root/.keras/datasets/Chicken-Wings.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=ideal-long-grain-white-rice-2kg",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/IDEAL-LONG-GRAIN-WHITE-RICE-2KG.png",
+        "description": "ideal long grain white rice 2kg ideal long grain white rice 2kg",
+        "filenames": "/root/.keras/datasets/IDEAL-LONG-GRAIN-WHITE-RICE-2KG.png",
+        "cluster": 9
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=defy-20l-microwave-dmo384",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Defy-20l-Microwave-DMO384-.jpg",
+        "description": "defy 20l microwave dmo384 defy 20l microwave dmo384",
+        "filenames": "/root/.keras/datasets/Defy-20l-Microwave-DMO384-.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=eversharp-pen-blue-singles-2",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000041166-19.jpg",
+        "description": "eversharp pen singles eversharp pen singles",
+        "filenames": "/root/.keras/datasets/9000041166-19.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=kalahari-red-0-3mm-x-3-6mm",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/KALAHARI-RED.jpg",
+        "description": "kalahari red 0.3mm x 3.6mm kalahari red 0.3mm x 3.6mm",
+        "filenames": "/root/.keras/datasets/KALAHARI-RED.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=raleigh-nexus-26-mens-mtb",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/silo-MIN_381198_EAA_large-500x500.jpg",
+        "description": "raleigh nexus 26\u2033 mens mtb raleigh nexus 26\u2033 mens mtb",
+        "filenames": "/root/.keras/datasets/silo-MIN_381198_EAA_large-500x500.jpg",
+        "cluster": 0
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=four-seasons-zumbani-tea-100g",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/zumbani-tea-500x500.jpg",
+        "description": "four seasons zumbani tea 100g four seasons zumbani tea 100g",
+        "filenames": "/root/.keras/datasets/zumbani-tea-500x500.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=pork-braai-ribs-2kg",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Pork-Braai-Ribs.jpg",
+        "description": "pork braai ribs 2kg pork braai ribs 2kg",
+        "filenames": "/root/.keras/datasets/Pork-Braai-Ribs.jpg",
+        "cluster": 3
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=bar-stool",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/11.jpg",
+        "description": "kitchen/bar stool kitchen/bar stool",
+        "filenames": "/root/.keras/datasets/11.jpg",
+        "cluster": 11
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=baba-johns-chicken-mixed-portions-2kg",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Baba-Johns-Chicken-2kg.png",
+        "description": "baba john\u2019s chicken mixed portions 2kg baba john\u2019s chicken mixed portions 2kg",
+        "filenames": "/root/.keras/datasets/Baba-Johns-Chicken-2kg.png",
+        "cluster": 12
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=panasonic-55-inch-tv",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/GX655_Spec-500x455.png",
+        "description": "panasonic 55 inch tv panasonic 55 inch tv",
+        "filenames": "/root/.keras/datasets/GX655_Spec-500x455.png",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=aqua-clear-water-750ml",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Aqua-750ml.jpg",
+        "description": "aqua clear water 750mlx15 aqua clear water 750mlx15",
+        "filenames": "/root/.keras/datasets/Aqua-750ml.jpg",
+        "cluster": 4
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=charhons-loose-biscuits-500gx10",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Quality-Biscuits-2-500x500.png",
+        "description": "charhons loose biscuits 500gx10 charhons loose biscuits 500gx10",
+        "filenames": "/root/.keras/datasets/Quality-Biscuits-2-500x500.png",
+        "cluster": 9
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=12inch-red-velvet-cake",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/12INCH-RED-VELVET-CAKE-1-500x500.jpg",
+        "description": "12inch red velvet cake 12inch red velvet cake",
+        "filenames": "/root/.keras/datasets/12INCH-RED-VELVET-CAKE-1-500x500.jpg",
+        "cluster": 6
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=astra-ceiling-paint-20lts",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/images-1.jpg",
+        "description": "astra ceiling paint 20lts astra ceiling paint 20lts",
+        "filenames": "/root/.keras/datasets/images-1.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=grass-slasher-imported",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000096395-14.jpg",
+        "description": "grass slasher grass slasher",
+        "filenames": "/root/.keras/datasets/9000096395-14.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=lotus-20l-bucket-with-tap-rw20",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/18.jpg",
+        "description": "lotus 20l bucket with tap rw20 lotus 20l bucket with tap rw20",
+        "filenames": "/root/.keras/datasets/18.jpg",
+        "cluster": 13
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=traffic-green-0-4mm-x-600mm-cranked-ridge-ibr",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/TRAFFIC-GREN-SHEETS-1.jpg",
+        "description": "traffic green 0.4mm x 600mm cranked ridge ibr traffic green 0.4mm x 600mm cranked ridge ibr",
+        "filenames": "/root/.keras/datasets/TRAFFIC-GREN-SHEETS-1.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=barbed-wire-50kg",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/11-Barbed-wire-resized-300x300.png",
+        "description": "barbed wire 50kg barbed wire 50kg",
+        "filenames": "/root/.keras/datasets/11-Barbed-wire-resized-300x300.png",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=grey-socks",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/24.jpg",
+        "description": "grey socks grey socks",
+        "filenames": "/root/.keras/datasets/24.jpg",
+        "cluster": 5
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=consol-lyon-white-wine-4-pack",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/CONSOL-LYON-WHITE-WINE-4-PACK-500x500.jpg",
+        "description": "consol lyon white wine 4 pack consol lyon white wine 4 pack",
+        "filenames": "/root/.keras/datasets/CONSOL-LYON-WHITE-WINE-4-PACK-500x500.jpg",
+        "cluster": 11
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=dulux-paint-luxurious-silk-white-20ltrs",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/dulux-luxurious-silk.png",
+        "description": "dulux paint luxurious silk white 20ltrs dulux paint luxurious silk white 20ltrs",
+        "filenames": "/root/.keras/datasets/dulux-luxurious-silk.png",
+        "cluster": 13
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=gold-star-white-sugar-2kg",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Huletts.jpg",
+        "description": "huletts brown sugar 2kg x10(only available at ok mart stores) huletts brown sugar 2kg x10(only available at ok mart stores)",
+        "filenames": "/root/.keras/datasets/Huletts.jpg",
+        "cluster": 12
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=astra-super-acrylic-pva-interior-exterior-pva-20lts",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/images.jpg",
+        "description": "astra super acrylic pva interior & exterior pva 20lts astra super acrylic pva interior & exterior pva 20lts",
+        "filenames": "/root/.keras/datasets/images.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=pool-table-combined-oak",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/POOL-TABLE-COMBINED-OAK-500x500.jpg",
+        "description": "pool table combined oak pool table combined oak",
+        "filenames": "/root/.keras/datasets/POOL-TABLE-COMBINED-OAK-500x500.jpg",
+        "cluster": 10
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=6398-shoe-bruch-plastic-black",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/20.jpg",
+        "description": "6398 shoe brush plastic black 6398 shoe brush plastic black",
+        "filenames": "/root/.keras/datasets/20.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=420l-fridge-silver-hairline",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/C390-03-500x500.jpg",
+        "description": "420l fridge-silver hairline 420l fridge-silver hairline",
+        "filenames": "/root/.keras/datasets/C390-03-500x500.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=philips-easy-touch-garment-steamer",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/PHILIPS-EASY-TOUCH-GARMENT-STEAMER-500x500.jpg",
+        "description": "philips easy touch garment steamer philips easy touch garment steamer",
+        "filenames": "/root/.keras/datasets/PHILIPS-EASY-TOUCH-GARMENT-STEAMER-500x500.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=bucket-10l-2",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000042309-14.jpg",
+        "description": "bucket 10l (all colours) bucket 10l (all colours)",
+        "filenames": "/root/.keras/datasets/9000042309-14.jpg",
+        "cluster": 2
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=kian-2-quire-counterbook-bond-2",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/KIAN-2-QUIRE-COUNTERBOOK-BOND.jpg",
+        "description": "kian 2 quire counterbook bond kian 2 quire counterbook bond",
+        "filenames": "/root/.keras/datasets/KIAN-2-QUIRE-COUNTERBOOK-BOND.jpg",
+        "cluster": 9
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=mixed-pork-cuts",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Mixed-Pork-Cuts.jpg",
+        "description": "mixed pork cuts 2kg mixed pork cuts 2kg",
+        "filenames": "/root/.keras/datasets/Mixed-Pork-Cuts.jpg",
+        "cluster": 3
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=aqua-clear-water-500mlx24",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/aquaclear-water-500mlx24-500x500.jpg",
+        "description": "aqua-clear water 500mlx24 aqua-clear water 500mlx24",
+        "filenames": "/root/.keras/datasets/aquaclear-water-500mlx24-500x500.jpg",
+        "cluster": 4
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=lg-82-smart-4k-uhd-thinq",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/6452993_sd-500x334.jpg",
+        "description": "lg  (82\u2033) smart 4k uhd thinq lg  (82\u2033) smart 4k uhd thinq",
+        "filenames": "/root/.keras/datasets/6452993_sd-500x334.jpg",
+        "cluster": 9
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=bbq-beef-sausages",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/BBQ-Beef-Sausages-500x500.jpg",
+        "description": "bbq beef sausages 2kg bbq beef sausages 2kg",
+        "filenames": "/root/.keras/datasets/BBQ-Beef-Sausages-500x500.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=sunbeam-45l-table-top-oven",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/SUNBEAM-45L-TABLE-TOP-OVEN.jpg",
+        "description": "sunbeam 45l table top oven sunbeam 45l table top oven",
+        "filenames": "/root/.keras/datasets/SUNBEAM-45L-TABLE-TOP-OVEN.jpg",
+        "cluster": 10
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=consol-bordeaux-stemless-wine-glass-4pce",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/CONSOL-BORDEAUX-STEMLESS-WINE-GLASS-4PCE-500x500.jpg",
+        "description": "consol bordeaux stemless wine glass 4pce consol bordeaux stemless wine glass 4pce",
+        "filenames": "/root/.keras/datasets/CONSOL-BORDEAUX-STEMLESS-WINE-GLASS-4PCE-500x500.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=allwear-3pce-bathroom-towel-set",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Allwear-3pce-bathroom-towel-set.jpg",
+        "description": "allwear 3pce  bathroom towel set allwear 3pce  bathroom towel set",
+        "filenames": "/root/.keras/datasets/Allwear-3pce-bathroom-towel-set.jpg",
+        "cluster": 10
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=lg-nano-tv-55",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/lg-55-nano-500x500.jpg",
+        "description": "lg smart nano 4k tv 55 lg smart nano 4k tv 55",
+        "filenames": "/root/.keras/datasets/lg-55-nano-500x500.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=20l-bucket-plastic",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/2018/04/20lt-Bucket-recent-500x500.jpg",
+        "description": "20l bucket plastic (all colours) 20l bucket plastic (all colours)",
+        "filenames": "/root/.keras/datasets/20lt-Bucket-recent-500x500.jpg",
+        "cluster": 2
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=aluminium-ladder-5-8m",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Aluminium-Ladder-5.8m-500x500.jpg",
+        "description": "aluminium ladder 5.8m aluminium ladder 5.8m",
+        "filenames": "/root/.keras/datasets/Aluminium-Ladder-5.8m-500x500.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=russell-hobbs-loaf-pan",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/718VhJTGzTL._AC_UL160_SR160160_.jpg",
+        "description": "russell hobbs loaf pan russell hobbs loaf pan",
+        "filenames": "/root/.keras/datasets/718VhJTGzTL._AC_UL160_SR160160_.jpg",
+        "cluster": 10
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=cameo-pantihose-all-colours-sizes-m-xxxl",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000088600-10.jpg",
+        "description": "cameo pantihose (all colours) (sizes m \u2013 xxxl) cameo pantihose (all colours) (sizes m \u2013 xxxl)",
+        "filenames": "/root/.keras/datasets/9000088600-10.jpg",
+        "cluster": 5
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=everlast-boxing-bag-glove-set",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/EVERLAST-500x500.jpg",
+        "description": "everlast boxing bag glove set everlast boxing bag glove set",
+        "filenames": "/root/.keras/datasets/EVERLAST-500x500.jpg",
+        "cluster": 5
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=ideal-long-grain-rice-2kgx10",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/731882405606-Ideal-Long-Grain-White-Rice-2kg-500x500.png",
+        "description": "ideal long grain rice 2kgx10 ideal long grain rice 2kgx10",
+        "filenames": "/root/.keras/datasets/731882405606-Ideal-Long-Grain-White-Rice-2kg-500x500.png",
+        "cluster": 9
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=blackrose-top-notch-45x75-turquoise",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000096864-10.jpg",
+        "description": "blackrose top notch 45x75 turquoise blackrose top notch 45x75 turquoise",
+        "filenames": "/root/.keras/datasets/9000096864-10.jpg",
+        "cluster": 10
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=chicken-breasts-2kg-pack",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/chciken_breast.jpg",
+        "description": "chicken breasts 2kg pack chicken breasts 2kg pack",
+        "filenames": "/root/.keras/datasets/chciken_breast.jpg",
+        "cluster": 6
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=oxtail-per-kg",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Oxtail-500x360.jpg",
+        "description": "oxtail per kg oxtail per kg",
+        "filenames": "/root/.keras/datasets/Oxtail-500x360.jpg",
+        "cluster": 3
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=lenovo-tab-4-7-inch-bundle",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/4135F8HrPiL._AC_.jpg",
+        "description": "lenovo tab tb7305x lenovo tab tb7305x",
+        "filenames": "/root/.keras/datasets/4135F8HrPiL._AC_.jpg",
+        "cluster": 10
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=7-up-can-330ml",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000050485-19.jpg",
+        "description": "7 up can 330ml 7 up can 330ml",
+        "filenames": "/root/.keras/datasets/9000050485-19.jpg",
+        "cluster": 9
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=ms-school-short-sleeve-shirt-sky-11",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000042540-12.jpg",
+        "description": "school short sleeve shirt (white and sky) (sizes 11 \u2013 18) school short sleeve shirt (white and sky) (sizes 11 \u2013 18)",
+        "filenames": "/root/.keras/datasets/9000042540-12.jpg",
+        "cluster": 5
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=capri-ccf420l-freezer-white",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/C390-02.jpg",
+        "description": "capri ccf420l freezer white capri ccf420l freezer white",
+        "filenames": "/root/.keras/datasets/C390-02.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=baken-take-standard-white-bread",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Bake-n-Take-Loaf.png",
+        "description": "bake\u2019n take standard white bread(available in harare only) bake\u2019n take standard white bread(available in harare only)",
+        "filenames": "/root/.keras/datasets/Bake-n-Take-Loaf.png",
+        "cluster": 12
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=kleva-kids-school-grey-1-2-elasticated-shorts-36",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000094330-10.jpg",
+        "description": "school grey and khaki shorts (sizes 22 \u2013 40) school grey and khaki shorts (sizes 22 \u2013 40)",
+        "filenames": "/root/.keras/datasets/9000094330-10.jpg",
+        "cluster": 5
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=totem-racer-16-bmx-boys",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/silo-MIN_374991_EAA_large-500x500.jpg",
+        "description": "totem racer 16\u2033 bmx boys totem racer 16\u2033 bmx boys",
+        "filenames": "/root/.keras/datasets/silo-MIN_374991_EAA_large-500x500.jpg",
+        "cluster": 0
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=a4-kian-exercise-book-bond-q-m-72pg",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000070726-15.jpg",
+        "description": "a4 kian exercise book bond 72pg maths a4 kian exercise book bond 72pg maths",
+        "filenames": "/root/.keras/datasets/9000070726-15.jpg",
+        "cluster": 9
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=esko-instant-noodles-beef-80gx1",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Instant-Noodles-Various-Flavours-2.jpg",
+        "description": "instant noodles 80g (all brands, all flavours) instant noodles 80g (all brands, all flavours)",
+        "filenames": "/root/.keras/datasets/Instant-Noodles-Various-Flavours-2.jpg",
+        "cluster": 9
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=top-notch-dry-iron-di-17018",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000095978-14.jpg",
+        "description": "top notch dry iron top notch dry iron",
+        "filenames": "/root/.keras/datasets/9000095978-14.jpg",
+        "cluster": 13
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=michelin-car-mats-4pce",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/MICHELIN-CAR-MATS-4PCE.jpg",
+        "description": "michelin car mats 4pce michelin car mats 4pce",
+        "filenames": "/root/.keras/datasets/MICHELIN-CAR-MATS-4PCE.jpg",
+        "cluster": 5
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=totem-adventure-26-mtb-ladies",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Ladies-Adventure-500x500.jpg",
+        "description": "totem adventure 26\u2033 mtb ladies totem adventure 26\u2033 mtb ladies",
+        "filenames": "/root/.keras/datasets/Ladies-Adventure-500x500.jpg",
+        "cluster": 0
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=capri-290l-fridge-w-dispenser-silver-hairline",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/TF-290-WD-s1-267x400-1.jpg",
+        "description": "capri 290l fridge -w/dispenser silver hairline capri 290l fridge -w/dispenser silver hairline",
+        "filenames": "/root/.keras/datasets/TF-290-WD-s1-267x400-1.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=12-inch-strawberry-cake",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/12-INCH-STRAWBERRY-CAKE.jpg",
+        "description": "12 inch strawberry cake 12 inch strawberry cake",
+        "filenames": "/root/.keras/datasets/12-INCH-STRAWBERRY-CAKE.jpg",
+        "cluster": 6
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=aquaclear-bottled-water-500ml",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/AQUACLEAR-500ML.jpg",
+        "description": "aquaclear bottled water 500ml aquaclear bottled water 500ml",
+        "filenames": "/root/.keras/datasets/AQUACLEAR-500ML.jpg",
+        "cluster": 4
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=sunbeam-steam-and-spray-iron-1600w",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Sunbeam-Iron.jpg",
+        "description": "sunbeam steam and spray iron 1600w sunbeam steam and spray iron 1600w",
+        "filenames": "/root/.keras/datasets/Sunbeam-Iron.jpg",
+        "cluster": 14
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=lafarge-portland-pc15-cement-32-5r-50kg-available-only-in-ok-mbareok-karoi-and-okmart-harare",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/pc15-1.jpg",
+        "description": "portland pc15 cement 32.5n, 50kg portland pc15 cement 32.5n, 50kg",
+        "filenames": "/root/.keras/datasets/pc15-1.jpg",
+        "cluster": 9
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=screwdriver-set-3pc-electrical-black-tip",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000070990-13.jpg",
+        "description": "screwdriver set 3pc electrical black tip screwdriver set 3pc electrical black tip",
+        "filenames": "/root/.keras/datasets/9000070990-13.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=raleigh-nexus-26-ladies-mtb-2",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/RALEIGH-NEXUS-26-LADIES-MTB-1.jpg",
+        "description": "raleigh nexus 26\u2033 ladies mtb raleigh nexus 26\u2033 ladies mtb",
+        "filenames": "/root/.keras/datasets/RALEIGH-NEXUS-26-LADIES-MTB-1.jpg",
+        "cluster": 0
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=pork-loin-chops-2kg",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Pork-Loin-Chops.jpg",
+        "description": "pork loin chops 2kg pork loin chops 2kg",
+        "filenames": "/root/.keras/datasets/Pork-Loin-Chops.jpg",
+        "cluster": 3
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=kango-bellied-pot-12-5l-l-hand",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Kango-bellied-Pot.jpg",
+        "description": "kango bellied pot 12.5l l/hand kango bellied pot 12.5l l/hand",
+        "filenames": "/root/.keras/datasets/Kango-bellied-Pot.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=amos-wax-twisters",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/AMOS-WAX-TWISTERS-USD-6.85.jpg",
+        "description": "amos wax twisters amos wax twisters",
+        "filenames": "/root/.keras/datasets/AMOS-WAX-TWISTERS-USD-6.85.jpg",
+        "cluster": 13
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=absorbers-pampers-28",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Absorbers-logo-and-packshot-1.jpg",
+        "description": "absorbers absorbers",
+        "filenames": "/root/.keras/datasets/Absorbers-logo-and-packshot-1.jpg",
+        "cluster": 13
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=superset-cement-42-5r",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/lafarge_supaset_cement_packshot_smaller.jpg",
+        "description": "superset cement 42.5r superset cement 42.5r",
+        "filenames": "/root/.keras/datasets/lafarge_supaset_cement_packshot_smaller.jpg",
+        "cluster": 9
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=12-inch-blackforest-cake",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/12-INCH-BLACKFOREST-CAKE-500x500.jpg",
+        "description": "12 inch blackforest cake 12 inch blackforest cake",
+        "filenames": "/root/.keras/datasets/12-INCH-BLACKFOREST-CAKE-500x500.jpg",
+        "cluster": 6
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=salt-pepper-shaker-2pce-69004",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000091236-13.jpg",
+        "description": "salt pepper  shaker 2pce 69004 salt pepper  shaker 2pce 69004",
+        "filenames": "/root/.keras/datasets/9000091236-13.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=jetech-s-grip-s-driver-5x200",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000050733-14.jpg",
+        "description": "s grip screw driver 5x200 s grip screw driver 5x200",
+        "filenames": "/root/.keras/datasets/9000050733-14.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=sellotape-lge-12mmx50m-singles-2",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000042306-14.jpg",
+        "description": "sellotape 18mm 40yards lotus sellotape 18mm 40yards lotus",
+        "filenames": "/root/.keras/datasets/9000042306-14.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=mortein-refill-naturguard-50wp-80g",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/mortein-refill-naturguard-50wP-80g.jpg",
+        "description": "mortein refill naturguard 50wp 80g mortein refill naturguard 50wp 80g",
+        "filenames": "/root/.keras/datasets/mortein-refill-naturguard-50wP-80g.jpg",
+        "cluster": 13
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=russel-hobbs-square-cake-pan",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/41nwHHabQL._AC_.jpg",
+        "description": "russel hobbs square cake pan russel hobbs square cake pan",
+        "filenames": "/root/.keras/datasets/41nwHHabQL._AC_.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=12-inch-chocolate-cake",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/12-INCH-CHOCOLATE-CAKE-500x393.jpg",
+        "description": "12 inch chocolate cake 12 inch chocolate cake",
+        "filenames": "/root/.keras/datasets/12-INCH-CHOCOLATE-CAKE-500x393.jpg",
+        "cluster": 6
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=dlite-cooking-oil-2lx12",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/DLite.jpg",
+        "description": "d\u2019lite cooking oil 2lx12 d\u2019lite cooking oil 2lx12",
+        "filenames": "/root/.keras/datasets/DLite.jpg",
+        "cluster": 12
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=salton-sqeb01-blanket-queen-px854916",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000086874-10.jpg",
+        "description": "salton sqeb01 blanket queen px854916 salton sqeb01 blanket queen px854916",
+        "filenames": "/root/.keras/datasets/9000086874-10.jpg",
+        "cluster": 5
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=ae-electric-jug-1-8l-2",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000041572-18.jpg",
+        "description": "ae electric jug 1.8l ae electric jug 1.8l",
+        "filenames": "/root/.keras/datasets/9000041572-18.jpg",
+        "cluster": 13
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=ae-4-plate-gas-stove-6060",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/AE-60X60-4-Plate-Gas-Stove-01-500x500.png",
+        "description": "ae 4 plate gas stove 60*60 ae 4 plate gas stove 60*60",
+        "filenames": "/root/.keras/datasets/AE-60X60-4-Plate-Gas-Stove-01-500x500.png",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=chicken-drumsticks-2kg",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Chicken-Drums.jpg",
+        "description": "chicken drumsticks 2kg pack chicken drumsticks 2kg pack",
+        "filenames": "/root/.keras/datasets/Chicken-Drums.jpg",
+        "cluster": 1
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=kleva-kids-belt-loop-grey-tousers-38",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/9000098215-10.jpg",
+        "description": "grey and navy school trousers (sizes 24 -42) grey and navy school trousers (sizes 24 -42)",
+        "filenames": "/root/.keras/datasets/9000098215-10.jpg",
+        "cluster": 5
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=capri-350l-fridge-metallic",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/CAPRI-350L-METALLIC.jpg",
+        "description": "capri 350l fridge metallic capri 350l fridge metallic",
+        "filenames": "/root/.keras/datasets/CAPRI-350L-METALLIC.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=everlast-core-dumbell-bench",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Everlast-Bench.jpg",
+        "description": "everlast core dumbell bench everlast core dumbell bench",
+        "filenames": "/root/.keras/datasets/Everlast-Bench.jpg",
+        "cluster": 7
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=everlast-hybrid-exercise-bike",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/hybrid_cycle-500x500.jpg",
+        "description": "everlast hybrid exercise bike everlast hybrid exercise bike",
+        "filenames": "/root/.keras/datasets/hybrid_cycle-500x500.jpg",
+        "cluster": 7
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=unicem-cement-32-5-50kg",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/PPC-UNICEM-300x300.jpg",
+        "description": "pc15 cement  50kg pc15 cement  50kg",
+        "filenames": "/root/.keras/datasets/PPC-UNICEM-300x300.jpg",
+        "cluster": 9
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=kenwood-accent-blender",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/KENWOOD-ACCENT-BLENDER-500x500.jpg",
+        "description": "kenwood accent blender kenwood accent blender",
+        "filenames": "/root/.keras/datasets/KENWOOD-ACCENT-BLENDER-500x500.jpg",
+        "cluster": 13
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=terrace-leisure-saturn-310-3b-gas-braai",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/TERRACE-LEISURE-SATURN-310-3B-GAS-BRAAI.jpg",
+        "description": "terrace leisure saturn 310 3b gas braai terrace leisure saturn 310 3b gas braai",
+        "filenames": "/root/.keras/datasets/TERRACE-LEISURE-SATURN-310-3B-GAS-BRAAI.jpg",
+        "cluster": 10
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=capri-370l-fridge-white",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/C370-01-1-500x500.jpg",
+        "description": "capri 370l fridge-white capri 370l fridge-white",
+        "filenames": "/root/.keras/datasets/C370-01-1-500x500.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=cookmore-cooking-oil-2l",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/medium16340852195t0xT13412-1.png",
+        "description": "cookmore  cooking oil 2l cookmore  cooking oil 2l",
+        "filenames": "/root/.keras/datasets/medium16340852195t0xT13412-1.png",
+        "cluster": 4
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=raleigh-twinkle-12-bmx",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/silo-MIN_375633_EAA_large-500x500.jpg",
+        "description": "raleigh twinkle 12\u2033 bmx raleigh twinkle 12\u2033 bmx",
+        "filenames": "/root/.keras/datasets/silo-MIN_375633_EAA_large-500x500.jpg",
+        "cluster": 7
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=dulux-paint-acrylic-pva-brilliant-white-20lts",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/dulux-acrylic-pva.png",
+        "description": "dulux paint acrylic pva brilliant white 20lts dulux paint acrylic pva brilliant white 20lts",
+        "filenames": "/root/.keras/datasets/dulux-acrylic-pva.png",
+        "cluster": 13
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=wheelbarrow-flat",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/1-Wheel-Barrow-Flat-1.jpg",
+        "description": "wheelbarrow flat wheelbarrow flat",
+        "filenames": "/root/.keras/datasets/1-Wheel-Barrow-Flat-1.jpg",
+        "cluster": 7
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=capri-freezer-white-390l-wd-glass-door-white",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/C390WDGDM-CAPRI-390L-FRIDGE-W-DISP-GLASS-DOOR-MIRR-scaled-2-500x500.jpg",
+        "description": "390l fridge-w/dispenser black mirror 390l fridge-w/dispenser black mirror",
+        "filenames": "/root/.keras/datasets/C390WDGDM-CAPRI-390L-FRIDGE-W-DISP-GLASS-DOOR-MIRR-scaled-2-500x500.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=capri-glass-door-piano-black-c350-water-dispensor",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/C390WDGDM-CAPRI-390L-FRIDGE-W-DISP-GLASS-DOOR-MIRR-scaled-1-500x500.jpg",
+        "description": "capri glass door piano black mirror c350 water dispenser capri glass door piano black mirror c350 water dispenser",
+        "filenames": "/root/.keras/datasets/C390WDGDM-CAPRI-390L-FRIDGE-W-DISP-GLASS-DOOR-MIRR-scaled-1-500x500.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=everlast-fluid-exercise-spin-bike",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Everlast-Bike.jpg",
+        "description": "everlast fluid exercise spin bike everlast fluid exercise spin bike",
+        "filenames": "/root/.keras/datasets/Everlast-Bike.jpg",
+        "cluster": 7
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=aqua-clear-water-1l",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/Aqua-750ml-1.jpg",
+        "description": "aqua clear  water 1lx12 aqua clear  water 1lx12",
+        "filenames": "/root/.keras/datasets/Aqua-750ml-1.jpg",
+        "cluster": 4
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=capri-tf-340l-metalic-with-dispenser",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/340-capri.jpg",
+        "description": "capri tf340m 340l metalic capri tf340m 340l metalic",
+        "filenames": "/root/.keras/datasets/340-capri.jpg",
+        "cluster": 8
+    },
+    {
+        "product_url": "https://www.okonline.co.zw/?product=aerolite-17inch-backpack",
+        "image_url": "https://www.okonline.co.zw/wp-content/uploads/17-500x500.jpg",
+        "description": "aerolite 17inch backpack aerolite 17inch backpack",
+        "filenames": "/root/.keras/datasets/17-500x500.jpg",
+        "cluster": 5
+    }
+]
