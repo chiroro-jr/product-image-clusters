@@ -18,7 +18,7 @@
 </script>
 
 <svelte:head>
-	<title>News Clusters</title>
+	<title>Product Image Clusters</title>
 </svelte:head>
 
 <div class="app-grid | min-w-screen min-h-screen">
