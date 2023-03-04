@@ -4,8 +4,10 @@
 	export let product: Product
 </script>
 
-<div class="max-w-[250px] flex flex-col overflow-hidden rounded bg-white shadow-sm">
-	<div class="h-[150px] bg-gray-3" />
+<div class="max-w-[300px] flex flex-col overflow-hidden rounded bg-white shadow-sm">
+	<div class="h-[200px] bg-gray-3">
+		<img src={product.image_url} alt={product.description} class="w-full h-full object-cover" />
+	</div>
 	<div class="flex flex-col flex-1 gap-2 p-4">
 		<p class="text-gray-800 first-letter:uppercase">{product.description}</p>
 		<span class="text-sm text-gray-600">Cluster {product.cluster}</span>
