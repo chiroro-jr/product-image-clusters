@@ -9,4 +9,12 @@ declare global {
 	}
 }
 
-export {}
+type Product = {
+	product_url: string
+	image_url: string
+	description: string
+	filenames: string
+	cluster: number
+}
+
+export { Product }
